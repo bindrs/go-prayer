@@ -8,10 +8,19 @@
 
 You can download and install the latest compiled debug build directly:
 
-- **[Direct APK Download Link (Primary)](https://ais-dev-jsjp426u4rxkyvun6hu4pc-32032759018.asia-east1.run.app/app-debug.apk)**
-- **[Direct APK Download Link (Alternative)](https://ais-pre-jsjp426u4rxkyvun6hu4pc-32032759018.asia-east1.run.app/app-debug.apk)**
-- **AI Studio In-Browser Download**: Click the **Install** button located in the top-right corner of the **Preview** panel in AI Studio.
-- **Local File Path**: `public/app-debug.apk` / `.build-outputs/app-debug.apk`
+| Option | Link | Details |
+| :--- | :--- | :--- |
+| 🚀 **Direct Download (Dev URL)** | **[Download app-debug.apk](https://ais-dev-jsjp426u4rxkyvun6hu4pc-32032759018.asia-east1.run.app/app-debug.apk)** | Direct HTTPS browser download (~26 MB) |
+| 🌐 **Direct Download (Preview URL)** | **[Download app-debug.apk](https://ais-pre-jsjp426u4rxkyvun6hu4pc-32032759018.asia-east1.run.app/app-debug.apk)** | Alternative CDN mirror |
+| ⚡ **AI Studio Studio Toolbar** | **"Install" button in AI Studio** | Top-right toolbar in the **Preview** panel |
+| 📂 **Workspace Asset** | `./public/app-debug.apk` | Available in repository files |
+
+### 📲 Quick Install Guide on Android:
+1. Tap the **[Direct Download Link](https://ais-dev-jsjp426u4rxkyvun6hu4pc-32032759018.asia-east1.run.app/app-debug.apk)** on your Android phone or tablet.
+2. When the download completes, tap the notification or open the file from your **Downloads** folder.
+3. If prompted with *"For your security, your phone is not allowed to install unknown apps from this source"*, tap **Settings** and toggle **Allow from this source**.
+4. Tap **Install** and open **Go Prayer**.
+5. Grant notification & location permissions when prompted to enable automated Azan alarms and Qibla calibration.
 
 ---
 
