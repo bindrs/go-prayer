@@ -1,0 +1,6 @@
+{
+  "name": "Go Prayer",
+  "description": "Premium modern Islamic prayer application with accurate prayer times, Qibla compass, Salah streak progress, and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Go Prayer</string>
+    <string name="accessibility_blocker_description">Disables distracting apps during Salah time and redirects to Prayer Screen with Quranic verses and prayer reminder.</string>
+</resources>
